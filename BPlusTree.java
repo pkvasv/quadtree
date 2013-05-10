@@ -1,3 +1,9 @@
+/*
+*Based on implementations:
+* http://algs4.cs.princeton.edu/62btrees/BTree.java.html
+*http://bplusdotnet.sourceforge.net/
+*http://www.eecs.wsu.edu/~holder/courses/cse2320/lectures/applets/bplus/BplusTree.html
+*/
 
 public class BPlusTree<Key extends Comparable<? super Key>, Value>
 {
